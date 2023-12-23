@@ -25,6 +25,6 @@ Welcome to the 1st Phase-I project at CodersCave! This project involves an in-de
 ### Geographical Insights:
 - Visualized the distribution of attacks by region and analyzed year-wise success.
 
-- Dataset Source: https://www.kaggle.com/datasets/START-UMD/gtd
+### Dataset Source: https://www.kaggle.com/datasets/START-UMD/gtd
 
-- Analysis File is also available in kaggle: https://www.kaggle.com/code/mkk1817/eda-terrorism
+### Analysis File is also available in kaggle: https://www.kaggle.com/code/mkk1817/eda-terrorism
